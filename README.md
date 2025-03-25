@@ -9,6 +9,7 @@
 
 <h4> В проекте используются: </h4>
   - Java 11; <br>
+  - Maven; <br>
   - JUnit 4; <br>
   - Mockito; <br>
   - Jacoco.
