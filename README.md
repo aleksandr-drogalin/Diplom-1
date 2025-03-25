@@ -10,4 +10,4 @@
   - Java 11; <br>
   - JUnit 4; <br>
   - Mockito; <br>
-  - Jacoco;
+  - Jacoco.
