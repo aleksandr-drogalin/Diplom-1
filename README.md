@@ -1,4 +1,5 @@
 <h1> Unit-тесты на программу, которая помогает сделать заказ в учебном приложении "Stellar Burgers" </h1>
+<p> 1-я часть дипломной работы, на курсе Яндекс Практикум по специальности "Автоматизатор тестирования на java"</p>
 <h4> Сайт приложения "Stellar Burgers": https://stellarburgers.nomoreparties.site/ </h4>
 <h4> Исходный код тестируемой программы: https://github.com/yandex-praktikum/QA-java-diplom-1 </h4>
 <h4> Задание:</h4>
